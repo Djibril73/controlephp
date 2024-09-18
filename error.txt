@@ -1,0 +1,2 @@
+J'ai eu des problème au niveau du docker php mais j'ai fini par réussir à l'installer, 
+par manque de temps je n'ai pas pu installer le serveur symfony.
